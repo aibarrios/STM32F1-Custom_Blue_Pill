@@ -1,0 +1,36 @@
+!SESSION 2023-04-14 01:50:05.533 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_PH
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-04-14 01:50:49.452
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-04-14 01:50:49.670
+!MESSAGE Log4j initialized with config file /home/aicbarrios/Documents/AICB/Projects/Personal/Hardware Design/STM32F103C8T6_Pinout/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-04-14 01:50:55.691
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-04-14 01:54:13.477
+!MESSAGE Indexed 'Custom_Blue_Pill' (17 sources, 78 headers) in 3.6 sec: 3,642 declarations; 13,168 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 4 0 2023-04-14 02:10:05.038
+!MESSAGE org.eclipse.equinox.internal.p2.touchpoint.natives.actions.UnzipAction error unzipping zipfile: /home/aicbarrios/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.11.0_139060369_linux_gtk_x86_64/p2/org.eclipse.equinox.p2.core/cache/binary/com.st.stm32cube.ide.mcu.rcp.product.executable.gtk.linux.x86_64_1.12.0destination: /opt/st/stm32cubeide_1.11.0
+!SESSION 2023-04-14 02:10:20.808 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_PH
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-04-14 02:10:44.462
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-04-14 02:10:44.464
+!MESSAGE Log4j2 initialized with config file /home/aicbarrios/Documents/AICB/Projects/Personal/Hardware Design/STM32F103C8T6_Pinout/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-04-14 02:10:57.865
+!MESSAGE Started RMI Server, listening on port 41337
